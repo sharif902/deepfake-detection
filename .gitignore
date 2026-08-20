@@ -1,0 +1,18 @@
+# Dataset
+dataset/
+
+# Generated results
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary downloaded files
+temp_downloaded.*
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
