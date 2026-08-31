@@ -1,8 +1,6 @@
 # Dataset
 dataset/
-
-# Generated results
-results/
+test/
 
 # Python cache
 __pycache__/
@@ -11,8 +9,13 @@ __pycache__/
 # Temporary downloaded files
 temp_downloaded.*
 
-# Video files
+# Large video files
 *.mp4
 *.avi
 *.mov
 *.mkv
+
+# Allow test sample videos
+!test_samples/
+!test_samples/test_videos/
+!test_samples/test_videos/*.mp4

@@ -337,7 +337,7 @@ def is_image_url(url):
 # =====================
 # CHANGE INPUT HERE
 # =====================
-input_path = "555.jpeg"
+input_path = r"C:\project-s\test_samples\test_videos\test_video_03.mp4"
 # OR
 # input_path = "https://example.com/image.jpg"
 # OR
